@@ -20,8 +20,8 @@ TODO: Lucidchart diagram here
 
 * [x] Come up with rough overall design
   * [x] diagram of dataflow - https://lucid.app/documents/view/5ad2f8b0-f60e-41dd-9ed2-05fe2f6686c9
-  * [ ] capacity planning (reqs / second load)
-  * [ ] API endpoints design
+  * [x] capacity planning (reqs / second load)
+  * [x] API endpoints design
 * [ ] backend server + Kafka
   * [ ] 1 - install + start kafka local instance with 1 topic
   * [ ] 2 - create skeleton django server
